@@ -21,4 +21,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcollector.bonzai.co
 0.0.0.0 px.moatads.com
 0.0.0.0 bing.com
-0.0.0.0 *.bing.com
